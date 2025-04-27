@@ -45,18 +45,9 @@ Bookly is built using the **MVVM (Model-View-ViewModel)** architecture, which en
 - Clear separation of concerns.
 - Improved scalability and testability.
 
----
+## screenshot
+![Bookly](https://github.com/user-attachments/assets/9cbc923f-72c3-4399-95c3-7b954d60e960)
 
-## 🎥 Demo
-
-<div align="center">
-
-https://github.com/user-attachments/assets/0b3cba60-163d-4677-8bf2-554ed135180c
-
-
-</div>
-
----
 
 ## 🚀 Getting Started
 
